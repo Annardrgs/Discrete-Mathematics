@@ -1,3 +1,5 @@
+//Grupo: Anna Clara Rodrigues, Daniel Mendes e Isabele de Paula
+
 #include <stdio.h>
 
 int Dec2Bin(int n){

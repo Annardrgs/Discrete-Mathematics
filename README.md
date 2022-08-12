@@ -26,6 +26,10 @@ resultado.
 - Resposta no arquivo [Questao 5 - Função Recursiva Quociente da Divisão](Questao5FuncaoRecursivaQuocienteDivisao.cpp).
 
 -------------------------------------------------------------------------------------------------------------
+## Integrantes do grupo:
+- Anna Clara Rodrigues
+- Daniel Mendes
+- Isabele de Paula
 
 ## Link do Repositório
 - [Github](https://github.com/Annardrgs/Discrete-Mathematics)
