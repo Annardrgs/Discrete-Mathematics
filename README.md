@@ -23,7 +23,7 @@ resultado.
 - Resposta no arquivo [Questao 4 - Função Recursiva Resto da Divisão](Questao4FuncaoRecursivaRestoDivisao.cpp).
 
 ## Questão 5
-- Resposta no arquivo [Questao 4 - Função Recursiva Quociente da Divisão](Questao5FuncaoRecursivaQuocienteDivisao.cpp).
+- Resposta no arquivo [Questao 5 - Função Recursiva Quociente da Divisão](Questao5FuncaoRecursivaQuocienteDivisao.cpp).
 
 -------------------------------------------------------------------------------------------------------------
 
