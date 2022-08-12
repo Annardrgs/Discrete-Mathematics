@@ -28,4 +28,4 @@ resultado.
 -------------------------------------------------------------------------------------------------------------
 
 ## Link do Repositório
-[Github](https://github.com/Annardrgs/Discrete-Mathematics)
+- [Github](https://github.com/Annardrgs/Discrete-Mathematics)
