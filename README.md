@@ -27,5 +27,5 @@ resultado.
 
 -------------------------------------------------------------------------------------------------------------
 
-## Link do Repossitório
+## Link do Repositório
 [Github](https://github.com/Annardrgs/Discrete-Mathematics)
