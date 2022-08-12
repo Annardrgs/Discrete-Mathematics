@@ -20,7 +20,7 @@ resultado.
 - Resposta no arquivo: [Questao 3 - Função Recursiva Decimal-Binário](Questao3FuncaoRecursivaDecimalBinario.c).
 
 ## Questão 4
-- Resposta no arquivo [Questao 4 - Função Recursiva Resto da Divisão](Questao4FuncaoRecursivaRestoDivisao.c).
+- Resposta no arquivo [Questao 4 - Função Recursiva Resto da Divisão](Questao4FuncaoRecursivaRestoDivisao.cpp).
 
 ## Questão 5
 - Resposta no arquivo [Questao 4 - Função Recursiva Quociente da Divisão](Questao5FuncaoRecursivaQuocienteDivisao.cpp).
