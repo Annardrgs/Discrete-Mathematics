@@ -30,6 +30,7 @@ resultado.
 - Anna Clara Rodrigues
 - Daniel Mendes
 - Isabele de Paula
+- Noemi Cho
 
 ## Link do Repositório
 - [Github](https://github.com/Annardrgs/Discrete-Mathematics)

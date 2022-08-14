@@ -1,4 +1,4 @@
-//Grupo: Anna Clara Rodrigues, Daniel Mendes e Isabele de Paula
+//Grupo: Anna Clara Rodrigues, Daniel Mendes, Isabele de Paula e Noemi Cho
 
 #include <stdio.h>
 #include <stdlib.h>
