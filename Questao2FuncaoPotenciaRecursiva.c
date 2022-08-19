@@ -1,13 +1,16 @@
 //Grupo: Anna Clara Rodrigues, Daniel Mendes, Isabele de Paula e Noemi Cho
 
+// Potência (x,n) = x.Potência (X,n-1), se |n|>0 ; 1 se |n|=0
+
 #include <stdio.h>
 #include <stdlib.h>
 
 int potencia(int x, int n){
-    if(n == 0)
+    if(n == 0) {
         return 1;
-    else
+    } else {
         return x * potencia(x, n - 1);
+    }
 }
 
 int main () {
